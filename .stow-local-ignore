@@ -1,0 +1,12 @@
+# Git
+\.git
+\.gitignore
+\.github
+\.gitattributes
+
+# Ignore undo-tree files
+.+~
+
+# Miscellaneous
+LICENSE.*
+README.md
